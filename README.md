@@ -1,5 +1,3 @@
-# Before all, this is a fork from linuxacademy/cicd-pipeline-train-schedule-jenkins
-
 # cicd-pipeline-train-schedule-jenkins
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
